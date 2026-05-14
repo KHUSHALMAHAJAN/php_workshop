@@ -58,7 +58,7 @@ foreach ($sorted as $name => $marks) {
 
 
 
-<?php
+<!-- <?php
 $products = [];
 
 // Add product
@@ -186,4 +186,4 @@ print_r($evenNumbers);
 
 echo "<br>Numbers > 5: ";
 print_r($greaterNumbers);
-?>  
+?>   -->
